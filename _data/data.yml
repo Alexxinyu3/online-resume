@@ -117,6 +117,7 @@ project:
       date: 2024.06 - 2024.07
       description: |
         Tech stack: cword2vec,NLTK,BERT,machine learning,python,NLP
+        
         Achievement:
           + Manually labeled data and cleaned text data
           + Train BERT models and make evaluations with 80% accuracy
@@ -128,6 +129,7 @@ project:
       date: 2023.09 - 2023.12 
       description: |
         Tech stack: NLP,Matplotlib,Relu Activate the function,CNN,Deep learning
+        
         Achievement:
           + Collected and collated 1 million ratings from the MovieLens
           + Designed a neural network model to extract relevant data features
