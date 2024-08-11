@@ -116,8 +116,8 @@ project:
       tags: Developer
       date: 2024.06 - 2024.07
       description: |
-      Tech stack: word2vec,NLTK,BERT,machine learning,python,NLP
-      Achievement:
+      Tech stack:word2vec,NLTK,BERT,machine learning,python,NLP
+      Achievement-
         + Manually labeled data and cleaned text data
         + Train BERT models and make evaluations with 80% accuracy
         + Use the trained model to infer more than 40,000 pieces of data
