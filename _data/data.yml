@@ -120,7 +120,8 @@ project:
         
         Achievement:
           + Manually labeled data and cleaned text data
-          + Train BERT models and make evaluations with 80% accuracy
+          + Train BERT model and make evaluations with 80% accuracy
+          + Train 10 machine learning models and make evaluations with 75% accuracy
           + Use the trained model to infer more than 40,000 pieces of data
 
           
@@ -262,7 +263,7 @@ publication:
 award:
   show: true
   order: 5
-  title: Awards
+  title: Honors
   description: |
     
   items:
