@@ -123,6 +123,21 @@ project:
           + Train BERT models and make evaluations with 80% accuracy
           + Use the trained model to infer more than 40,000 pieces of data
 
+          
+    - name: DJI Robomaster Autonomous Robot
+      link:
+      tags: Main Developer
+      date: 2024.02 - 2024.06
+      description: |
+        Tech stack: Python, Deep Sort, PaddlePaddle, PID Regulation,Machine Learning
+        
+        Achievement:
+        + Implemented autonomous functionalities for the DJI Robomaster
+        + Designed obstacle avoidance systems using advanced machine learning algorithms
+        + Implemented object recognition and grabbing capabilities with "PicoDet"
+        + Utilized PID control for precise people tracking and movement
+
+        
     - name: Movie Recommendation system
       link:
       tags: Developer
@@ -137,18 +152,7 @@ project:
           + Successfully increased the recommendation accuracy and user satisfaction
 
         
-    - name: DJI Robomaster Autonomous Robot
-      link:
-      tags: Main Developer
-      date: 2024.02 - 2024.06
-      description: |
-        Tech stack: Python, Deep Sort, PaddlePaddle, PID Regulation,Machine Learning
-        
-        Achievement:
-        + Implemented autonomous functionalities for the DJI Robomaster
-        + Designed obstacle avoidance systems using advanced machine learning algorithms
-        + Implemented object recognition and grabbing capabilities with "PicoDet"
-        + Utilized PID control for precise people tracking and movement
+    
 
 skill:
   show: true
@@ -159,22 +163,22 @@ skill:
   items:
     - name: Python
       level: 5
+    - name: ML/DL/NLP/LLM
+      level: 5
     - name: SQL
+      level: 4
+    - name: R
       level: 4
     - name: C
       level: 3
-    - name: R
-      level: 4
     - name: Linux
-      level: 3
-    - name: Stata
       level: 3
     - name: SPSS
       level: 4
     - name: PowerBI
       level: 4
-    - name: Machine learning/Deep learning/NLP/LLM
-      level: 5
+    - name: Stata
+      level: 4
 
 
 
@@ -191,7 +195,9 @@ education:
       major: Embedded Artificial Intelligence
       degree: Master
       description: |
-        Courses: Data structures and Algorithms,Embedded C language,Linux and Scripting languages,Machine Learning,R&D Project,smart sensor for artificial intelligence etc
+        Courses: 
+
+        Data structures and Algorithms,Embedded C language,Linux and Scripting languages,Machine Learning,R&D Project,smart sensor for artificial intelligence etc
 
     - institution: Qufu Normal University
       link:
@@ -199,7 +205,9 @@ education:
       major: Statistics (National first-class undergraduate major)
       degree: Bachelor
       description: |
-        Courses: Mathematical Analysis,Time Series Analysis,Python language,SQL,Advanced Algebra,Statistical Software R,Probability Theory,Data science,Matlab,Multivariate Statistical Analysis etc
+        Courses: 
+        
+        Mathematical Analysis,Time Series Analysis,Python language,SQL,Advanced Algebra,Statistical Software R,Probability Theory,Data science,Matlab,Multivariate Statistical Analysis etc
 
 certificate:
   show: false
