@@ -89,7 +89,7 @@ profile:
 
 experience:
   show: true
-  order: 4
+  order: 3
   title: Work Experiences
   description: |
   items:
@@ -106,7 +106,7 @@ experience:
 
 project:
   show: true
-  order: 3
+  order: 2
   title: Projects
   description: |
     
@@ -149,7 +149,7 @@ project:
 
 skill:
   show: true
-  order: 5
+  order: 4
   title: Skills
   description: |
     The skills section in a resume is a dedicated section where you can list out the various skills that you possess that are relevant to the job you are applying for. This section allows you to highlight your strengths and demonstrate your capabilities to potential employers.
@@ -199,7 +199,7 @@ skill:
 
 education:
   show: true
-  order: 2
+  order: 1
   title: Education
   description: |
     The education section in a resume is where you provide information about your academic background, including any degrees. In this section, you should include the name and location of the institution where you received your degree, the name of the degree or program you completed, and the date of graduation. If you have earned multiple degrees, list them in reverse chronological order, with the most recent degree first.
@@ -279,7 +279,7 @@ publication:
 
 award:
   show: true
-  order: 8
+  order: 5
   title: Awards
   description: |
     The award section in a resume is a dedicated section where you can showcase any awards you have received. This section is particularly relevant for individuals who have received awards for their work in their field, such as employees who have received performance awards or industry-specific awards. In this section, you should list the name of the award, the organization or institution that awarded it, the date it was awarded, and any other relevant details.
@@ -339,7 +339,7 @@ organization:
 
 language:
   show: true
-  order: 11
+  order: 6
   title: Languages
   description: |
     The languages section in a resume typically includes information about your proficiency in different languages. This section can be particularly important if you are applying for a job that requires fluency or proficiency in a specific language.
@@ -353,7 +353,7 @@ language:
       level: Professional
 
 interest:
-  show: true
+  show: false
   order: 12
   title: Interests
   description: |
@@ -370,7 +370,7 @@ interest:
       link:
 
 evaluation:
-  show: true
+  show: false
   order: 13
   title: Self-evaluation
   description: |
@@ -381,7 +381,7 @@ evaluation:
     A well-crafted self-evaluation section can demonstrate your self-awareness and confidence in your abilities, as well as your willingness to continuously learn and grow. However, it is important to be honest and avoid over-inflating your skills or qualifications, as this can negatively impact your credibility and the hiring manager's impression of you.
 
 reference:
-  show: true
+  show: false
   order: 14
   title: References
   description: |
