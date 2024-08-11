@@ -113,8 +113,8 @@ project:
   items:
     - name: Binary Text classification
       link: 
-      tags: 
-      date: Role: Developer
+      tags: Developer
+      date: 2024.06 - 2024.07
       description: |
         Tech stack: cword2vec,NLTK,BERT,machine learning,python,NLP
         
@@ -125,8 +125,8 @@ project:
 
     - name: Movie Recommendation system
       link:
-      tags: 
-      date: Role: Developer 
+      tags: Developer
+      date: 2023.07 - 2023.12 
       description: |
         Tech stack: NLP,Matplotlib,Relu Activate the function,CNN,Deep learning
         
@@ -139,8 +139,8 @@ project:
         
     - name: DJI Robomaster Autonomous Robot
       link:
-      tags: 
-      date: Role: Main Developer
+      tags: Main Developer
+      date: 2024.02 - 2024.06
       description: |
         Tech stack: Python, Deep Sort, PaddlePaddle, PID Regulation,Machine Learning
         
