@@ -112,9 +112,9 @@ project:
     
   items:
     - name: Binary Text classification
-      link: '#'
-      tags: 
-      date: Role: Developer
+      link: 
+      tags: Developer
+      date: 2024.06 - 2024.07
       description: |
       Tech stack: word2vec,NLTK,BERT,machine learning,python,NLP
       Achievement:
@@ -124,11 +124,11 @@ project:
 
     - name: Movie Recommendation system
       link:
-      tags: 
-      date: Role: Developer
+      tags: Developer
+      date: 2023.09 - 2023.12 
       description: |
-      Tech stack: NLP,Matplotlib,Relu Activate the function,CNN,Deep learning
-      Achievement:
+      Tech stack:NLP,Matplotlib,Relu Activate the function,CNN,Deep learning
+      Achievement-
         + Collected and collated 1 million ratings from the MovieLens
         + Designed a neural network model to extract relevant data features
         + Utilized cosine similarity to match features and provide recommendations
@@ -137,11 +137,11 @@ project:
         
     - name: DJI Robomaster Autonomous Robot
       link:
-      tags: 
-      date: Role: Developer
+      tags: Developer
+      date: 2024.02 - 2024.06
       description: |
-      Tech stack: Python, Deep Sort, PaddlePaddle, PID Regulation,Machine Learning
-      Achievement:
+      Tech stack:Python, Deep Sort, PaddlePaddle, PID Regulation,Machine Learning
+      Achievement-
         + Implemented autonomous functionalities for the DJI Robomaster
         + Designed obstacle avoidance systems using advanced machine learning algorithms
         + Implemented object recognition and grabbing capabilities with "PicoDet"
