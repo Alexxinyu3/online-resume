@@ -1,15 +1,15 @@
 basic:
-  name: Shan Xinyu                     # name
-  title: Data Scientist   --Looking for a 6 months internship and available immediately          # job title
+  name: 单欣雨                     # name
+  title: 数据科学家   --正在寻找6个月的实习，可以立即开始          # job title
   avatar:
     show: true                       # show or hide avatar
     path: /assets/images/shan.png # avatar file path
 
 contact:
   # meta
-  location: Rouen, France # location
+  location: 鲁昂, 法国 # location
   email: shanxy1999@gmail.com    # email address
-  phone: +33-0666032462 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  phone: +86-13345039627 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
   website:      # site URL without schema, like example.com, will automatically prepand "https://"
 
   gender:                  # gender or pronoun
@@ -90,68 +90,66 @@ profile:
 experience:
   show: true
   order: 3
-  title: Experiences
+  title: 工作经历
   description: |
   items:
-    - company: Zhongrui Huake (Beijing) Technology Co., Ltd
+    - company: 中瑞华科 (北京) 科技有限公司
       link: 
-      tags: Intern
+      tags: 实习
       date: 2023.02 - 2023.06
-      role: Data Analyst
-      location: Beijing
+      role: 数据分析师
+      location: 北京
       description: |
-        + Utilized Python to automate the generation of case certificates, significantly improving the efficiency of administrative processes
-        + Conducted data analysis and created detailed data visualizations to support public security efforts in combating cybercrime
+        + 利用 Python 自动生成案件证书，大大提高了行政流程的效率
+        + 进行数据可视化并做出分析，以支持打击网络犯罪的公共安全工作
 
 
 project:
   show: true
   order: 2
-  title: Projects
+  title: 项目经历
   description: |
     
   items:
-    - name: Binary Text classification
+    - name: 二元文本分类器
       link: 
-      tags: Developer
+      tags: 开发者
       date: 2024.06 - 2024.07
       description: |
-        Tech stack: cword2vec,NLTK,BERT,machine learning,python,NLP
+        技术栈: word2vec,NLTK,BERT,machine learning,python,NLP
         
-        Achievement:
-          + Manually labeled data and cleaned text data
-          + Train BERT model and make evaluations with 80% accuracy
-          + Train 10 machine learning models and make evaluations with 75% accuracy
-          + Use the trained model to infer more than 40,000 pieces of data
+        成就:
+          + 手动进行数据标注，并进行数据清洗
+          + 训练并优化 BERT 模型，最终模型在测试集上的准确率达到 80%
+          + 训练并优化十个机器学习模型，在实验中最高模型准确率达到 75%
+          + 使用训练好的模型对4万多条数据进行推理，得到了相应的情绪信息
 
           
-    - name: DJI Robomaster Autonomous Robot
+    - name: 大疆 Robomaster 自主机器人
       link:
-      tags: Main Developer
+      tags: 主要开发者
       date: 2024.02 - 2024.06
       description: |
-        Tech stack: Python, Deep Sort, PaddlePaddle, PID Regulation,Machine Learning
+        技术栈: Python, Deep Sort, PaddlePaddle, PID Regulation,Machine Learning
         
-        Achievement:
-        + Implemented autonomous functionalities for the DJI Robomaster
-        + Designed obstacle avoidance systems using advanced machine learning algorithms
-        + Implemented object recognition and grabbing capabilities with "PicoDet"
-        + Utilized PID control for precise people tracking and movement
-
+        成就:
+        + 为 DJI RoboMaster 实现自主功能，提升机器人自主操作能力
+        + 设计了基于高级机器学习算法的避障系统，确保机器人能够在复杂环境中自主导航
+        + 利用 "PicoDet" 实现目标识别与抓取功能，增强了机器人对物体的精准操作能力
+        + 应用 PID 控制算法实现精确的人体跟踪与移动，提高了机器人在动态环境中的反应速度与稳定性
         
-    - name: Movie Recommendation system
+    - name: 电影推荐系统
       link:
-      tags: Developer
+      tags: 开发者
       date: 2023.07 - 2023.12 
       description: |
-        Tech stack: NLP,Matplotlib,Relu Activate the function,CNN,Deep learning
+        技术栈: NLP,Matplotlib,Relu Activate the function,CNN,Deep learning
         
-        Achievement:
-          + Collected and collated 1 million ratings from the MovieLens
-          + Designed a neural network model to extract relevant data features
-          + Utilized cosine similarity to match features and provide recommendations
-          + Successfully increased the recommendation accuracy and user satisfaction
-
+        成就:
+          + 从 MovieLens 网站上收集并整理了 100 万条评分数据
+          + 设计了神经网络模型以提取关键数据特征
+          + 采用余弦相似度匹配特征并提供个性化推荐
+          + 成功提升了推荐准确性和用户满意度，显著优化了用户体验
         
     
 
@@ -186,29 +184,29 @@ skill:
 education:
   show: true
   order: 1
-  title: Education
+  title: 教育经历
   description: |
 
   items:
     - institution: ESIGELEC-ROUEN
       link: 
       date: 2023 - 2025
-      major: Embedded Artificial Intelligence
-      degree: Master
+      major: 嵌入式人工智能
+      degree: 硕士
       description: |
         Courses: 
 
-        Data structures and Algorithms,Embedded C language,Linux and Scripting languages,Machine Learning,R&D Project,smart sensor for artificial intelligence etc
+        数据结构与算法,嵌入式 C 语言,Linux 及脚本语言,机器学习,R&D 项目,人工智能的智能传感器 等
 
-    - institution: Qufu Normal University
+    - institution: 曲阜师范大学
       link:
       date: 2018 - 2022
-      major: Statistics (National first-class undergraduate major)
-      degree: Bachelor
+      major: 统计学 (国家一流本科专业)
+      degree: 学士
       description: |
         Courses: 
         
-        Mathematical Analysis,Time Series Analysis,Python language,SQL,Advanced Algebra,Statistical Software R,Probability Theory,Data science,Matlab,Multivariate Statistical Analysis etc
+        数学分析,高等代数,时间序列分析,Python 语言,SQL,统计软件 R,概率论与数理统计,数据科学,Matlab,多元统计分析，回归分析等
 
 certificate:
   show: false
@@ -263,28 +261,29 @@ publication:
 award:
   show: true
   order: 5
-  title: Honors
+  title: 荣誉
   description: |
     
   items:
-    - name: The 11th National College Student Market Survey and Analysis Competition(CRA)
+    - name: 第十一届全国大学生市场分析与调查大赛(CRA)
       awarder: 
-      date: April 2021
+      date: 2021年4月 
       link: 
       description: |
-       + First prize at the provincial level 
-       + Third prize at the national level
+       + 荣获省级一等奖 
+       + 荣获国家级三等奖
        
-    - name: The 13th Mathematics competition of Chinese College Students(CMC)
+    - name: 第十三届全国大学生数学竞赛(CMC)
       awarder: 
-      date: November 2021
+      date: 2021年11月
       link:
       description: |
-        Won the first prize at the both provincial and national level
+       + 荣获省级一等奖 
+       + 荣获国家级一等奖
 
-    - name: President of the Student Union of the School of Statistics and Data Science,Qufu normal university
+    - name: 曲阜师范大学统计学院学生会主席
       awarder: 
-      date: April 2020 - March 2021
+      date: 2020年4月 - 2021年3月
       link: 
       description: |
     
@@ -332,12 +331,12 @@ language:
   description: |
 
   items:
-    - idiom: Chinese
-      level: Native
-    - idiom: English
-      level: Professional
-    - idiom: French
-      level: Basic
+    - idiom: 中文
+      level: 母语
+    - idiom: 英语
+      level: 中高级（商务会话）
+    - idiom: 法语
+      level: 初学者
 
 interest:
   show: false
