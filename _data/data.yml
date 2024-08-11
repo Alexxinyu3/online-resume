@@ -90,11 +90,11 @@ profile:
 experience:
   show: true
   order: 3
-  title: Work Experiences
+  title: Experiences
   description: |
   items:
     - company: Zhongrui Huake (Beijing) Technology Co., Ltd
-      link: '#'
+      link: 
       tags: Intern
       date: 2023.02 - 2019.06
       role: Data Analyst
@@ -116,8 +116,8 @@ project:
       tags: 
       date: Role: Developer
       description: |
-        Tech stack: word2vec,NLTK,BERT,machine learning,python,NLP
-        Achievement:
+      Tech stack: word2vec,NLTK,BERT,machine learning,python,NLP
+      Achievement:
         + Manually labeled data and cleaned text data
         + Train BERT models and make evaluations with 80% accuracy
         + Use the trained model to infer more than 40,000 pieces of data
@@ -127,8 +127,8 @@ project:
       tags: 
       date: Role: Developer
       description: |
-        Tech stack: NLP,Matplotlib,Relu Activate the function,CNN,Deep learning
-        Achievement:
+      Tech stack: NLP,Matplotlib,Relu Activate the function,CNN,Deep learning
+      Achievement:
         + Collected and collated 1 million ratings from the MovieLens
         + Designed a neural network model to extract relevant data features
         + Utilized cosine similarity to match features and provide recommendations
@@ -140,8 +140,8 @@ project:
       tags: 
       date: Role: Developer
       description: |
-        Tech stack: Python, Deep Sort, PaddlePaddle, PID Regulation,Machine Learning
-        Achievement:
+      Tech stack: Python, Deep Sort, PaddlePaddle, PID Regulation,Machine Learning
+      Achievement:
         + Implemented autonomous functionalities for the DJI Robomaster
         + Designed obstacle avoidance systems using advanced machine learning algorithms
         + Implemented object recognition and grabbing capabilities with "PicoDet"
